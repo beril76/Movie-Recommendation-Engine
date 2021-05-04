@@ -2,12 +2,13 @@
 
 **Problem Statement**
 
+
 To build a Content-Based Movie Recommendation Engine with Natural Language Processing for South Indian languages ie Malayalam, Tamil, Telugu and Kannada.
 
 **Description**
 
 
-Data - web scraped from IMDB 
+Data - web scraped from IMDB.
 
 Obtained a csv file with around 800 movies ie around 200 from each of the languages. 
 
